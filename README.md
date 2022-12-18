@@ -2,7 +2,7 @@
 
 ## MONOLİTİK MİMARİ
 ### Avantajlar
-* KÜÇÜKk ekipler iÇin y�netilmesi ve geli�tirmesi kolayd�r.
+* Küçük ekipler için yönetilmesi ve geliştirmesi kolaydır.
 * CI/CD ve Test süreçleri neredeyse DevOPS gerektirmez.
 * Birden fazla ekip ihtiyacı duymaz aynı anda birden fazla modülle çalışılabilirsiniz (Bunun bir avantajdan ziyade dezavantaj olduğunu göreceğiz)
 ### Dezavantajlar
